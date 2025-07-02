@@ -1,5 +1,5 @@
 package org.example.controllers;
 
-public class UsuarioController {
+public class UserController {
 
 }

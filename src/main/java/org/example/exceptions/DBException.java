@@ -1,4 +1,4 @@
-package org.example.models;
+package org.example.exceptions;
 
 public class DBException extends RuntimeException {
 

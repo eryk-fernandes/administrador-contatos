@@ -1,4 +1,5 @@
 package org.example.services;
 
-public class ContatoService {
+public class ContactService {
+
 }
